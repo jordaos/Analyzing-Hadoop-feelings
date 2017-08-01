@@ -1,0 +1,3 @@
+Moving tags to new location.
+
+git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/tags/release-0.1.1@614599 13f79535-47bb-0310-9956-ffa450edef68
