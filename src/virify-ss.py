@@ -14,9 +14,9 @@ def is_in(dir, file, cat):
 
 
 def verify_is(dir, cat, dir2):
-    log = open('../data/LOG.md', 'a')
+    log = open('../data/LOG1.md', 'a')
     texto = ""
-    link = "https://github.com/jordaos/Analyzing-Hadoop-feelings/tree/master/raw-data/1_release_hadoop_classified_sentistrength"
+    link = "https://github.com/jordaos/Analyzing-Hadoop-feelings/tree/master/raw-data/1_release_hadoop_classified_sentistrength1"
     dir_cat = dir + cat + "/"
     for f in listdir(dir_cat):
         if isfile(join(dir_cat, f)):
@@ -31,7 +31,7 @@ def verify_is(dir, cat, dir2):
 
 
 
-dir_ver1 = '../raw-data/1_release_hadoop_classified_sentistrength/'
+dir_ver1 = '../raw-data/1_release_hadoop_classified_sentistrength1/'
 dir_ver2 = '../raw-data/1_release_hadoop_classified_manual/'
 
 verify_is(dir_ver1, "pos", dir_ver2) # Verificar os positivos
