@@ -28,7 +28,7 @@ def verify_is(log_file, dir, cat, dir2, link):
                 categories.remove(cat)
                 for categ in categories:
                     if (is_in(dir2, f, categ) == True):
-                        texto += "\n- <a href=\"%s/%s/%s\">%s</a> deveria ser \"%s\", mas está em \"%s\"" % (link, cat, f, f, categ, cat)
+                        texto += "- <a href=\"%s/%s/%s\">%s</a> deveria ser \"%s\", mas está em \"%s\" \n" % (link, categ, f, f, categ, cat)
     log_file.write(texto)
 
 
@@ -38,7 +38,7 @@ def verify_is(log_file, dir, cat, dir2, link):
 
 def verify():
     log = open('../data/%s' % (FILE_NAME), 'a')
-    texto = "---------- %s ----------" % (strftime("%Y-%m-%d %H:%M:%S", gmtime()))
+    texto = "# %s \n" % (strftime("%Y-%m-%d %H:%M:%S", gmtime()))
     log.write(texto)
     link = "https://github.com/jordaos/Analyzing-Hadoop-feelings/tree/master/raw-data/%s" % \
            ((MANUAL_CLASSIFICATION.split("/"))[-2])
