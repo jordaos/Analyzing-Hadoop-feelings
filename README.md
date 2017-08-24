@@ -33,3 +33,7 @@ This will generate a file with feeling points for each message.
 We will convert this file to a SQLite database containing the commit punctuation and information by running the `src/convert-in-sqlite.py` file.
 
 We now use this newly created database to classify messages as "positive," "negative," or "neutral." To do this run the file `sort-commits-sentistrength.py`.
+
+# Verify similarity with manual classification
+
+Run `src/verify-similarity.py MANUAL_CLASSIFICATION MODEL_CLASSIFICATION FILE_NAME`

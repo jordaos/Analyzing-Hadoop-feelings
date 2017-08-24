@@ -37,7 +37,7 @@ def verify_is(log_file, dir, cat, dir2, link):
 # dir_ver2 = '../raw-data/1_release_hadoop_classified_manual/'
 
 def verify():
-    log = open('../data/%s.md' % (FILE_NAME), 'a')
+    log = open('../data/%s' % (FILE_NAME), 'a')
     texto = "---------- %s ----------" % (strftime("%Y-%m-%d %H:%M:%S", gmtime()))
     log.write(texto)
     link = "https://github.com/jordaos/Analyzing-Hadoop-feelings/tree/master/raw-data/%s" % \
