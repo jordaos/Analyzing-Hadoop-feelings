@@ -1,3 +1,4 @@
+# Primeira release:
 Um comentário que chamou muita atenção:
     1e3ec8df8ac728b89f2b3b750d330f0ec3fd2ad6
     "First version that compiles."
@@ -25,7 +26,19 @@ Aqui tem muitas palavras negativas
     "Much improved hadoop logo.  Contributed by Stefan.  Thanks!"
 MUUUUUUUITO POSITIVO
 ----
+Muito negativo:
+    26bc4c9c146d7bf01e4b28ee4bc75feb7a60b9d8
+    "Fix some config problems, remove notion of app resources: it's overkill."
+----
 Pode ser interpretado de várias formas:
     294aa869c5bb6ea0e2bf762703456a020ad73f67
     "Fix for HADOOP-103, part II: I forgot to add this file the first time!"
 Classifiquei como neutro
+
+
+
+
+# SEGUNDA RELEASE:
+----
+Muito bem explicado, por isso foi para POSITIVO
+    fc9de14372c19aad1c68d9ef4753139788c5adea
