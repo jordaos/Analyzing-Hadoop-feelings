@@ -2,7 +2,174 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89c720ba-2929-438b-b2d1-51c1289a81e5" name="Default" comment="Classifying second release of Hadoop manually">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verify-similarity.py" afterPath="$PROJECT_DIR$/src/verify-similarity.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/Captura de tela de 2017-07-24 21-25-54.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/0077fb733336946f00699213bb2770f8793c341a.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/03c953c0dc5bb90b0a3ddddd881ac1a224e8d40b.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/05c6226a0d440f03eb9349b53960e5a6d0c11520.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/0769a577820b205e043a790498aa0d7d23480c6b.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/0925dc8d94dcf62ea3610467b60029c61418cdf5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/0940edcbcf4642c1561245b452b6cab2b42bc17f.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/09d93f190f15a33a6cda57d3e3b48ce5e0871d06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/0b400e8baff21afec87db9e839ce73c1feb16fc1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/0c74bfb679e8cd529d3afbb7eced143296162c0f.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/0caa6bc1b1e29ffff451adb7735c1eb1851d6110.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/119226c1cbcd92fb460ad9db2491a1d3002c394c.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/12da6c53340a0723ce6e93f9c84ae868f84f1022.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/1740f0b0d49127b30b62b0f474c5d0922e9564de.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/1808eff02e7642f9dddf2198ec21d4065c969bfd.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/19f692e553b3d4a5f82fe2284952c148f441ae15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/24465c6af46ee87aa7e91016249ec69ecfde533a.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/24698febf63a7807565a262e2daf4ad75e300c3d.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/26bc4c9c146d7bf01e4b28ee4bc75feb7a60b9d8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/27a97ef6d3181f3bb48683063d186ed978566a44.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/294aa869c5bb6ea0e2bf762703456a020ad73f67.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/299fb88129de131369f858cbbaf6cbfb735a49cf.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/2f5f4afbeef43b3b01cd1e8c1ab4a6d90afcc2bd.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/321bb7e898d29628dd6241adea3c3adffd780323.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/3441c8347b30407809d0f1c1ab6590d3552c2a2b.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/3781e7dcea7c383371dd271079632e336bbfb021.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/3c4edc2643cfafd3d68e9687f3c7c761c3ab5fdc.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/3cd90e4671d98dc116892f5f4809b4c3e74ef3c7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/45d08202588e5d48ca699e5b0dc00879820971bb.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/49601bd8c10b9439796c52dffcc322a56c1bcb33.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/4b7975e1c847a1b4152a4db2da5308882584699b.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/4eccd587cc03ffac50badbcefb28fb95b53a0f9e.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/4fa3271cf9ce47c946506c780d81b7de1b131eb4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/56cd3950f23431d3c1293460feafb524f10a02bd.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/597dce136ed19e718c8a9c9e4ac8c96ff393d5fb.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/5c70b644c6789d8f8c9ad65a5cba4a40bce98fc7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/5dc00b7146ac439bff415f945e62dc520825f2e9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/5f7ab155438cc2ca197ce44bfa9323b1daebcec5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/632548ee31eb8d43d780bb652bd79079d5c49e96.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/6798d42774b67e391af01d0f480a7179452268e0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/6b11146779ae976c0324e7f244f55df25eca08f2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/6d269c5b0ca64faf65f71338ef7605fb95816062.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/719ea4d7d91d753b9f80d5943d1ea6cf4853c85e.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/73be419f0070aee61d3d074cfeb5cb83461d1edf.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/74238987ecdff941987b47178c3d0bb4a76d5248.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/74d3933823419393b84aeaaf7ebff85a39426cfe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/7814c7d3f6daefd4f88349ed07e6f557be422f84.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/80254201e5c5efa0aebc58811b6b1cfcb8cf5ea1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/816215d79c8f9a35cfb8cae9f760295c54a92671.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/82236adb3c2353adb08d4abcc7139406d4023c98.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/85ac638e219d0dacb878616bf30dfede0dbca06a.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/943ba3132abad118fd7506bd2699df7c62286328.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/94ae013754d167d60849ad5453677b583849593e.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/95091af3ce3963df0c02e18df455816e686c39b4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/95a8baf33e064d71402ce8f94267a7eed2bf6827.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/9fa21cffcbd1f164079539d498ef88373490069d.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/a174e6219bf8f9d0140c929c513ab79723783f6f.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/a18fc6b1ef959276e1dc387330a49dca45bd97c2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/a1e62cdf65e8fb5df6a4e10ec733dec2d840ed40.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/a65bd56f38ee87689202a0a35bbef4b653140bd8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/a65e8774d9f1b8d23b809a379d700a9e8511340b.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/a6b0291c8d96e4673069c1902846f744e4ed547f.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/a76b8a871eccc80f1aba475a52623901dfdacc2f.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/a9779f2d9f5b9e38ff9c7dfa7833ff4b7eb7962b.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/acfd25a5d13c8da503501717fcec1f7f8de5c0b9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/b0a4ae3f8b9a02683c5a63805fad7da3d40c6ee9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/b8526a027f24d8e72f5c8a7137b81b8eba75f2ce.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/b96233f9aeb39dc9be87fcb347d3803b57e4e191.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/bbc74dd53ec3f2e7955669f373ad8414b01c32b5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/bc897b8c84ea5670092b9408346256c80e80de77.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/c506f665dfa3489d4f62f98029d23d52d5eefb69.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/dc372af412a5923f04feaad8925a16d89180bc8d.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/e25b16bdbb6da98e3c42fed8181049dda8be0cb0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/e3970330a9b25dd35b43539b9101a3049c662f5c.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/e41e5cd78ed3f33e93464ff8c9b60e5e704c7945.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/e87470e3f883f27b2a1d82fe944ec9d2b3d41c8c.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/f0dd4ebc632152e936c1848ff9e571568f69347c.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/f465056eb6fa98b3bf9fd06961f5a8733e3322f5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/f65655705b88d25e24a9b12b41cfeb3c49e322d3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/ff6a04a6aaf11acbd2c8e3d1bf3ed5e6fd7dcf09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/neu/ff7d8a10e23551a78679913bf4907db17bcaa045.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/00cea5a675cb1c33b32f63d2b0d50df68da61c10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/0bafd717da990b81de6891d86143da4b981f8e1e.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/100acbfd9c26a805bf016ecf890bb2380690901c.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/177ef6436fec3ab75b7f87abba5cb33d45c69209.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/1cc6967c39abb0d8161891ae2a450183045f12af.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/1e3ec8df8ac728b89f2b3b750d330f0ec3fd2ad6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/2487ad9876013af7e38e7ecffebc36f3df84d481.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/2775f9501bf223836156a6ac429a94a043658c92.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/2948bf60de699b33a7ecbf4fee407be1b75901c9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/2bb379e5c6256f8600e7daac8156aad3a54c7d5a.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/2e0f1051ff1ef72011a550f3053fd2aa07962478.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/3f5b4c0626af8329a7bb5f78f0fd1114d8eece00.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/40644a69e698811a78ac03378f2f46727d0292bf.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/472b093bccc981301f420e53f58a86fa1b7096c6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/48b7666eb0f80b8c297ce64e4843532a2149fd17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/4d5fbc8ba293ff17e235e7acb33d700456badad6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/510f87ef597fbbbaa1f23cba100b511078c2389a.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/5c13c7170f6cc3ce6471bedc944c08b1716d7e4f.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/6a533c06ffa9965853c724c34b1722b9decbb244.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/7018745fac6b56df381b0063ed29c339589e4b2a.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/71eec3a52c839c3d37be7ad68bb4d0dbf84bdb94.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/78d2485bfb54ffa203f0a408d1e5438f5ff2a4bf.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/7b5ab5946f2340ca9840d69d9064229502102774.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/7d0429d4d228d34f0928a9a63a9247173c5e3c18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/7d178223d6fb535c26dd2060859597ec1140405f.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/7d9ac1edb91466b840ac2b3d8b4b31e803b7b63b.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/7dd5fc4a7dab46fd21811acc81d05bc7c4e65dab.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/7fd5df0c88934a1c5a2c3962b8ee7efec57b5ac6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/820a7cba012283a6fd720b5588cca847ffddad5f.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/8b48a08eeb9b0e3611065f85721613be1a469d6d.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/8b94d4806aa2b7aa585a4bb67741ea6bcab6ba09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/8cdc95ec9e14b11aa5138d53d3908c53625428bc.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/9458a936efb535e7db61585a7e6e5bd14757305a.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/98a20a93b42627afe691ead1467f06c3da4a998d.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/9b0f9645d3bf163549ceaf3f6675af25e647d889.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/9c70ec2b421dda15a55dc1fbdf6972aa9f881493.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/9ef99db0ed984c6a75a97c87bbaa25519da238c7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/9f4fa162163dc188a2ff9fb242846f653c7bdb38.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/a2619cc40191e4add49fd7708c0e1431699b0d42.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/aeddf7427dab0a332918f52ccf154ade93d8f081.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/b484903c4ab67cea761b1c31e830bd42b1892239.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/b79a449a6a502be91dab38a70e0919dc86e61ec0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/c544fb6c2a687008d0b7674dc0b08f406eafab5a.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/d02d3cdb2d3809e42283436bf714d7516e475611.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/d98cef1ab3e2bc6a3fc9ba5673c1723133e7df7e.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/db9cbb3c4e1251c0c3b2ee7db4f4c18d706ee72b.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/dc207a0a5aba0333967c8191f46d7556ffc9870a.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/dce8c9cf6abf8879b45275978197e79fed0bc129.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/df2d8df942651557209162aaec493c71203b5e05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/e206b7a9b2dac0044d0750ba6eb56f0a1f440a83.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/e4d235ba433f2061a8575c4511b9f02171438bd4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/eb63a233099f59ceed9ea99af512513962c8c31d.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/ec87d7e0e37ee1ed821bb2ee4cd24c8f0ebafa14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/ecf45fd810566c5561886e2a8bc1f1bf0fe878f5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/eeea2a252d5053157ef95cf0d3eb12277b73a695.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/f1477b88fc2f548abefde3b02c993ce0d1eed6e9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/f6db106b479e674ec98317e9d71916a7bb9a07f7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/f8b13ed6eea50c7d8b316f872cfb6d806735fa77.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/f98de59ffddce9e2da5313602888d4907d5d8015.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/fa1635cb55651386f72266a8494c4b1fb77803f3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/fc9de14372c19aad1c68d9ef4753139788c5adea.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/classify-with-senti-strength.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/03c953c0dc5bb90b0a3ddddd881ac1a224e8d40b.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/03c953c0dc5bb90b0a3ddddd881ac1a224e8d40b.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/0940edcbcf4642c1561245b452b6cab2b42bc17f.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/0940edcbcf4642c1561245b452b6cab2b42bc17f.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/0caa6bc1b1e29ffff451adb7735c1eb1851d6110.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/0caa6bc1b1e29ffff451adb7735c1eb1851d6110.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/119226c1cbcd92fb460ad9db2491a1d3002c394c.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/119226c1cbcd92fb460ad9db2491a1d3002c394c.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/19f692e553b3d4a5f82fe2284952c148f441ae15.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/19f692e553b3d4a5f82fe2284952c148f441ae15.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/24465c6af46ee87aa7e91016249ec69ecfde533a.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/24465c6af46ee87aa7e91016249ec69ecfde533a.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/294aa869c5bb6ea0e2bf762703456a020ad73f67.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/294aa869c5bb6ea0e2bf762703456a020ad73f67.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/49601bd8c10b9439796c52dffcc322a56c1bcb33.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/49601bd8c10b9439796c52dffcc322a56c1bcb33.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/4eccd587cc03ffac50badbcefb28fb95b53a0f9e.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/4eccd587cc03ffac50badbcefb28fb95b53a0f9e.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/74238987ecdff941987b47178c3d0bb4a76d5248.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/74238987ecdff941987b47178c3d0bb4a76d5248.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/74d3933823419393b84aeaaf7ebff85a39426cfe.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/74d3933823419393b84aeaaf7ebff85a39426cfe.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/7814c7d3f6daefd4f88349ed07e6f557be422f84.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/7814c7d3f6daefd4f88349ed07e6f557be422f84.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/80254201e5c5efa0aebc58811b6b1cfcb8cf5ea1.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/80254201e5c5efa0aebc58811b6b1cfcb8cf5ea1.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/94ae013754d167d60849ad5453677b583849593e.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/94ae013754d167d60849ad5453677b583849593e.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/95091af3ce3963df0c02e18df455816e686c39b4.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/95091af3ce3963df0c02e18df455816e686c39b4.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/a18fc6b1ef959276e1dc387330a49dca45bd97c2.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/a18fc6b1ef959276e1dc387330a49dca45bd97c2.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/b0a4ae3f8b9a02683c5a63805fad7da3d40c6ee9.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/b0a4ae3f8b9a02683c5a63805fad7da3d40c6ee9.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/bbc74dd53ec3f2e7955669f373ad8414b01c32b5.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/bbc74dd53ec3f2e7955669f373ad8414b01c32b5.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/f465056eb6fa98b3bf9fd06961f5a8733e3322f5.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/f465056eb6fa98b3bf9fd06961f5a8733e3322f5.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/f65655705b88d25e24a9b12b41cfeb3c49e322d3.txt" afterPath="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/f65655705b88d25e24a9b12b41cfeb3c49e322d3.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/neu/b79a449a6a502be91dab38a70e0919dc86e61ec0.txt" afterPath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/b79a449a6a502be91dab38a70e0919dc86e61ec0.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/neu/fa1635cb55651386f72266a8494c4b1fb77803f3.txt" afterPath="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/fa1635cb55651386f72266a8494c4b1fb77803f3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/verify-nb-classification-2release.log.md" afterPath="$PROJECT_DIR$/data/verify-nb-classification-2release.log.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/classify-with-naive-bayes-and-nltk.py" afterPath="$PROJECT_DIR$/src/classify-with-naive-bayes-and-nltk.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,23 +180,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="verify-similarity.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/verify-similarity.py">
+      <file leaf-file-name="verify-nb-classification-2release.log.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/verify-nb-classification-2release.log.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="30" column="131" lean-forward="false" selection-start-line="30" selection-start-column="126" selection-end-line="30" selection-end-column="131" />
-              <folding>
-                <element signature="e#16#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="38" column="51" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="51" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -47,6 +202,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Fi</find>
+      <find>nltk</find>
+      <find>stopwords</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -67,6 +224,8 @@
         <option value="$PROJECT_DIR$/src/virify-similarity.py" />
         <option value="$PROJECT_DIR$/data/verify-nb-classification-2release.log.md.md" />
         <option value="$PROJECT_DIR$/src/verify-similarity.py" />
+        <option value="$PROJECT_DIR$/src/classify-with-naive-bayes-and-nltk.py" />
+        <option value="$PROJECT_DIR$/data/verify-nb-classification-2release.log.md" />
       </list>
     </option>
   </component>
@@ -92,7 +251,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,6 +267,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -117,8 +276,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/neu" />
       <recent name="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos" />
+      <recent name="$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos" />
+      <recent name="$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/neu" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -225,9 +385,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1303" height="780" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26772907" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27729085" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -281,7 +440,292 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/d98cef1ab3e2bc6a3fc9ba5673c1723133e7df7e.txt">
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/24465c6af46ee87aa7e91016249ec69ecfde533a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/49601bd8c10b9439796c52dffcc322a56c1bcb33.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/95091af3ce3963df0c02e18df455816e686c39b4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/82236adb3c2353adb08d4abcc7139406d4023c98.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/119226c1cbcd92fb460ad9db2491a1d3002c394c.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/632548ee31eb8d43d780bb652bd79079d5c49e96.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/816215d79c8f9a35cfb8cae9f760295c54a92671.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/74238987ecdff941987b47178c3d0bb4a76d5248.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/80254201e5c5efa0aebc58811b6b1cfcb8cf5ea1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/a1e62cdf65e8fb5df6a4e10ec733dec2d840ed40.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/a6b0291c8d96e4673069c1902846f744e4ed547f.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/a18fc6b1ef959276e1dc387330a49dca45bd97c2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/a65bd56f38ee87689202a0a35bbef4b653140bd8.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/a65e8774d9f1b8d23b809a379d700a9e8511340b.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/a76b8a871eccc80f1aba475a52623901dfdacc2f.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="101" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/a174e6219bf8f9d0140c929c513ab79723783f6f.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/a9779f2d9f5b9e38ff9c7dfa7833ff4b7eb7962b.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/b0a4ae3f8b9a02683c5a63805fad7da3d40c6ee9.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/b8526a027f24d8e72f5c8a7137b81b8eba75f2ce.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/b96233f9aeb39dc9be87fcb347d3803b57e4e191.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/bbc74dd53ec3f2e7955669f373ad8414b01c32b5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/bc897b8c84ea5670092b9408346256c80e80de77.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/c506f665dfa3489d4f62f98029d23d52d5eefb69.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/dc372af412a5923f04feaad8925a16d89180bc8d.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/e25b16bdbb6da98e3c42fed8181049dda8be0cb0.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/e41e5cd78ed3f33e93464ff8c9b60e5e704c7945.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/e91ebfb5007f9feddd936953a8eabe1296ecd668.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/e87470e3f883f27b2a1d82fe944ec9d2b3d41c8c.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/e3970330a9b25dd35b43539b9101a3049c662f5c.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/f0dd4ebc632152e936c1848ff9e571568f69347c.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/f4dba1752ce658a5d64b2d147c0bc2b46053b21a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/f465056eb6fa98b3bf9fd06961f5a8733e3322f5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/f65655705b88d25e24a9b12b41cfeb3c49e322d3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/ff6a04a6aaf11acbd2c8e3d1bf3ed5e6fd7dcf09.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neu/ff7d8a10e23551a78679913bf4907db17bcaa045.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/Captura de tela de 2017-07-24 21-25-54.png" />
+    <entry file="file://$PROJECT_DIR$/src/classify-with-senti-strength.py" />
+    <entry file="file://$PROJECT_DIR$/src/sort-commits-sentistrength.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/convert-in-sqlite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classify-with-naive-bayes-and-nltk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/fa1635cb55651386f72266a8494c4b1fb77803f3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/pos/85ac638e219d0dacb878616bf30dfede0dbca06a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/fa1635cb55651386f72266a8494c4b1fb77803f3.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -289,7 +733,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/db9cbb3c4e1251c0c3b2ee7db4f4c18d706ee72b.txt">
+    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/neu/8b94d4806aa2b7aa585a4bb67741ea6bcab6ba09.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -297,7 +741,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/dc207a0a5aba0333967c8191f46d7556ffc9870a.txt">
+    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/neu/100acbfd9c26a805bf016ecf890bb2380690901c.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="69" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/neu/a2619cc40191e4add49fd7708c0e1431699b0d42.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="433" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="433" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/neu/9c70ec2b421dda15a55dc1fbdf6972aa9f881493.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -305,7 +765,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/neu/dc372af412a5923f04feaad8925a16d89180bc8d.txt">
+    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/neu/a9779f2d9f5b9e38ff9c7dfa7833ff4b7eb7962b.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -313,362 +773,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/dce8c9cf6abf8879b45275978197e79fed0bc129.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/df2d8df942651557209162aaec493c71203b5e05.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/e4d235ba433f2061a8575c4511b9f02171438bd4.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/neu/e25b16bdbb6da98e3c42fed8181049dda8be0cb0.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="40" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/neu/e41e5cd78ed3f33e93464ff8c9b60e5e704c7945.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="59" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/e206b7a9b2dac0044d0750ba6eb56f0a1f440a83.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="142" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="142" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/neu/e87470e3f883f27b2a1d82fe944ec9d2b3d41c8c.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/neu/e3970330a9b25dd35b43539b9101a3049c662f5c.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="68" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/eb63a233099f59ceed9ea99af512513962c8c31d.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/ec87d7e0e37ee1ed821bb2ee4cd24c8f0ebafa14.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/ecf45fd810566c5561886e2a8bc1f1bf0fe878f5.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/eeea2a252d5053157ef95cf0d3eb12277b73a695.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/neu/f0dd4ebc632152e936c1848ff9e571568f69347c.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/f6db106b479e674ec98317e9d71916a7bb9a07f7.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/f8b13ed6eea50c7d8b316f872cfb6d806735fa77.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/f98de59ffddce9e2da5313602888d4907d5d8015.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/f1477b88fc2f548abefde3b02c993ce0d1eed6e9.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/f465056eb6fa98b3bf9fd06961f5a8733e3322f5.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/f65655705b88d25e24a9b12b41cfeb3c49e322d3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/neu/fa1635cb55651386f72266a8494c4b1fb77803f3.txt">
+    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/neu/71eec3a52c839c3d37be7ad68bb4d0dbf84bdb94.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="3" column="12" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="12" />
+          <caret line="3" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/fc9de14372c19aad1c68d9ef4753139788c5adea.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/neu/ff6a04a6aaf11acbd2c8e3d1bf3ed5e6fd7dcf09.txt">
+    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/b79a449a6a502be91dab38a70e0919dc86e61ec0.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/neu/ff7d8a10e23551a78679913bf4907db17bcaa045.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="68" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neg/4d5fbc8ba293ff17e235e7acb33d700456badad6.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neg/5c70b644c6789d8f8c9ad65a5cba4a40bce98fc7.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neg/5f7ab155438cc2ca197ce44bfa9323b1daebcec5.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/observations.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="28" column="15" lean-forward="false" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neg/26bc4c9c146d7bf01e4b28ee4bc75feb7a60b9d8.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neg/73be419f0070aee61d3d074cfeb5cb83461d1edf.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="323" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="323" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/neg/a2619cc40191e4add49fd7708c0e1431699b0d42.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/1_release_hadoop_classified_manual/pos/0bafd717da990b81de6891d86143da4b981f8e1e.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/0bafd717da990b81de6891d86143da4b981f8e1e.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/0c74bfb679e8cd529d3afbb7eced143296162c0f.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/0caa6bc1b1e29ffff451adb7735c1eb1851d6110.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/00cea5a675cb1c33b32f63d2b0d50df68da61c10.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/1cc6967c39abb0d8161891ae2a450183045f12af.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/1e3ec8df8ac728b89f2b3b750d330f0ec3fd2ad6.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/2bb379e5c6256f8600e7daac8156aad3a54c7d5a.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/2e0f1051ff1ef72011a550f3053fd2aa07962478.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/3c4edc2643cfafd3d68e9687f3c7c761c3ab5fdc.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/3f5b4c0626af8329a7bb5f78f0fd1114d8eece00.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_manual/pos/03c953c0dc5bb90b0a3ddddd881ac1a224e8d40b.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" column="51" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_classified_naive_bayes/.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/verify-nb-classification-2release.log.md.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+          <caret line="0" column="65" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="65" />
           <folding />
         </state>
       </provider>
@@ -678,16 +794,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/verify-similarity.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="30" column="131" lean-forward="false" selection-start-line="30" selection-start-column="126" selection-end-line="30" selection-end-column="131" />
-          <folding>
-            <element signature="e#16#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

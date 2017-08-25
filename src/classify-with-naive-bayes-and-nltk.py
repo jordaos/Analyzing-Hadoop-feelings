@@ -14,7 +14,6 @@ from os import listdir
 from os.path import isfile, join
 import shutil
 
-
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 import re
