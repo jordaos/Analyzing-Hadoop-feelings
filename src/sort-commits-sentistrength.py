@@ -2,8 +2,8 @@ import math
 import sqlite3
 
 # Change it!
-dir = '../raw-data/1_release_hadoop_classified_sentistrength1'
-conn = sqlite3.connect('../data/senti-strength-analysis2.sqlite3')
+dir = '../raw-data/2_release_hadoop_classified_ss'
+conn = sqlite3.connect('../data/ss-analysis-second-release.sqlite3')
 # 0: project | 1: sha | 2: positive | 3: negative | 4: text | 5: Explanation
 cursor = conn.cursor()
 # lendo os dados

@@ -2,7 +2,7 @@ import sqlite3
 import re
 
 # Change it!
-conn = sqlite3.connect('../raw-data/1_release_hadoop.sqlite')
+conn = sqlite3.connect('../raw-data/2_release_hadoop.sqlite')
 cursor = conn.cursor()
 # lendo os dados
 cursor.execute("""
@@ -23,7 +23,7 @@ def remove_URLs_informations(sentence):
     return phrase
 
 # Change it!
-file_name = "1_release_hadoop_ss.txt"
+file_name = "2_release_hadoop_ss.txt"
 file = open("../raw-data/%s" % (file_name), "w")
 
 for linha in cursor.fetchall():

@@ -3,12 +3,12 @@ import re
 
 # File containing SentiStrength analysis
 # 0: POS | 1: NEG | 2: TEXT | 3: Explanation
-ss_analysis = '../raw-data/1_release_hadoop_ss1_out.txt'
+ss_analysis = '../raw-data/2_release_hadoop_ss0_out.txt'
 arq = open(ss_analysis, 'r')
 commit_analysis = arq.readline()
 
 # Change it!
-conn = sqlite3.connect('../raw-data/1_release_hadoop.sqlite')
+conn = sqlite3.connect('../raw-data/2_release_hadoop.sqlite')
 # 0: Project | 1: sha | 2: message | 3: date | 4: author_name | 5: author_email
 cursor = conn.cursor()
 # lendo os dados
@@ -17,7 +17,7 @@ SELECT * FROM commits;
 """)
 
 # database sentiments configuration
-new_db_conn = sqlite3.connect('../data/senti-strength-analysis2.sqlite3')
+new_db_conn = sqlite3.connect('../data/ss-analysis-second-release.sqlite3')
 nwc = new_db_conn.cursor()
 nwc.execute('''CREATE TABLE IF NOT EXISTS `sentiment` 
                 ( `project` TEXT, 
