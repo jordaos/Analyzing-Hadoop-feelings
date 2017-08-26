@@ -37,3 +37,5 @@ We now use this newly created database to classify messages as "positive," "nega
 # Verify similarity with manual classification
 
 Run `src/verify-similarity.py MANUAL_CLASSIFICATION MODEL_CLASSIFICATION FILE_NAME`
+
+- To preview results for first analysis, go to https://goo.gl/kJVj6V
