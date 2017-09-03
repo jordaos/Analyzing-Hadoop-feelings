@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89c720ba-2929-438b-b2d1-51c1289a81e5" name="Default" comment="Classifying second release of Hadoop manually">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/3_release_analysis_ss_filter.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/3_release_analysis_ss_no-filter.sqlite" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable.txt" afterPath="$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/convert-in-sqlite.py" afterPath="$PROJECT_DIR$/src/convert-in-sqlite.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/from-sqlite-to-file-ss.py" afterPath="$PROJECT_DIR$/src/from-sqlite-to-file-ss.py" />
-    </list>
+    <list default="true" id="89c720ba-2929-438b-b2d1-51c1289a81e5" name="Default" comment="Classifying second release of Hadoop manually" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,11 +12,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="convert-in-sqlite.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/convert-in-sqlite.py">
+      <file leaf-file-name="sort-commits-sentistrength.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sort-commits-sentistrength.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-46">
-              <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="74" />
+            <state relative-caret-position="72">
+              <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verify-similarity.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/verify-similarity.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -61,7 +63,6 @@
         <option value="$PROJECT_DIR$/data/verify-nb-classification-2release.log.md.md" />
         <option value="$PROJECT_DIR$/src/verify-similarity.py" />
         <option value="$PROJECT_DIR$/data/verify-nb-classification-2release.log.md" />
-        <option value="$PROJECT_DIR$/src/sort-commits-sentistrength.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/extract-commit-to-file.py" />
         <option value="$PROJECT_DIR$/src/verify_classifyed.py" />
@@ -75,6 +76,7 @@
         <option value="$PROJECT_DIR$/src/from-sqlite-to-file-ss.py" />
         <option value="$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable.txt" />
         <option value="$PROJECT_DIR$/src/convert-in-sqlite.py" />
+        <option value="$PROJECT_DIR$/src/sort-commits-sentistrength.py" />
       </list>
     </option>
   </component>
@@ -112,12 +114,7 @@
             <path>
               <item name="analyzing-hadoop-feelings" type="b2602c69:ProjectViewProjectNode" />
               <item name="analyzing-hadoop-feelings" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="analyzing-hadoop-feelings" type="b2602c69:ProjectViewProjectNode" />
-              <item name="analyzing-hadoop-feelings" type="462c0819:PsiDirectoryNode" />
-              <item name="raw-data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -344,13 +341,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/raw-data/3_release_hadoop_classified_manual/pos/40644a69e698811a78ac03378f2f46727d0292bf.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/raw-data/3_release_hadoop_classified_manual/pos/b0a4ae3f8b9a02683c5a63805fad7da3d40c6ee9.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -542,13 +532,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/classify-with-senti-strength.py" />
-    <entry file="file://$PROJECT_DIR$/src/sort-commits-sentistrength.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/classify-with-naive-bayes-and-nltk.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2">
@@ -704,6 +687,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-46">
           <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort-commits-sentistrength.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/verify-similarity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
