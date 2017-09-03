@@ -36,7 +36,7 @@ Now, download the SentiStrength Java tool at http://gateway.path.berkeley.edu:80
 To compute the sentiment for each commit message in the text file, go to `data` directory and run the following command:
 
 ```bash
-java -jar sentistrength-0.1.jar sentidata sentistrength_data/ input ../raw-data/3_release_hadoop_ss.txt explain
+java -jar sentistrength-0.1.jar sentidata sentistrength_data/ input ../raw-data/2_release_hadoop_ss.txt explain
 ```
 
 This will generate a file with feeling points for each message.
