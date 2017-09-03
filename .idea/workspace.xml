@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89c720ba-2929-438b-b2d1-51c1289a81e5" name="Default" comment="Classifying second release of Hadoop manually" />
+    <list default="true" id="89c720ba-2929-438b-b2d1-51c1289a81e5" name="Default" comment="Classifying second release of Hadoop manually">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neg/0caa6bc1b1e29ffff451adb7735c1eb1851d6110.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neg/260d0f602a754471f20d4b302acf2ce0d21ec7f4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neg/27a97ef6d3181f3bb48683063d186ed978566a44.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neu/0c0d78d8c820161bdd138f0e7726aca0fc77f0a8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neu/3c4edc2643cfafd3d68e9687f3c7c761c3ab5fdc.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neu/56cd3950f23431d3c1293460feafb524f10a02bd.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neu/719ea4d7d91d753b9f80d5943d1ea6cf4853c85e.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neu/8b48a08eeb9b0e3611065f85721613be1a469d6d.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neu/a18fc6b1ef959276e1dc387330a49dca45bd97c2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neu/b8a11ba2ec45bde538503fab9d010260f131ff1b.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neu/bbc74dd53ec3f2e7955669f373ad8414b01c32b5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neu/fa1635cb55651386f72266a8494c4b1fb77803f3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_ss0_out_filter.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3_release_analysis_ss_filter.sqlite" afterPath="$PROJECT_DIR$/data/3_release_analysis_ss_filter.sqlite" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/anotations.md" afterPath="$PROJECT_DIR$/data/anotations.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable-new.txt" afterPath="$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable-new.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable.txt" afterPath="$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable.txt" />
+    </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,7 +32,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sort-commits-sentistrength.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="327">
+                <caret line="45" column="155" lean-forward="false" selection-start-line="45" selection-start-column="126" selection-end-line="45" selection-end-column="155" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sort-commits-sentistrength.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sort-commits-sentistrength.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
@@ -22,8 +55,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="verify-similarity.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/verify-similarity.py">
+      <file leaf-file-name="convert-in-sqlite.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/convert-in-sqlite.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="19" column="74" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3_release_analysis_ss_filter.sqlite" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/3_release_analysis_ss_filter.sqlite">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -70,13 +113,14 @@
         <option value="$PROJECT_DIR$/raw-data/observations.txt" />
         <option value="$PROJECT_DIR$/src/classify-with-naive-bayes-and-nltk.py" />
         <option value="$PROJECT_DIR$/src/filter-wordlist.py" />
-        <option value="$PROJECT_DIR$/data/anotations.md" />
         <option value="$PROJECT_DIR$/raw-data/3_release_hadoop_ss-no-filter.txt" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/from-sqlite-to-file-ss.py" />
-        <option value="$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable.txt" />
         <option value="$PROJECT_DIR$/src/convert-in-sqlite.py" />
         <option value="$PROJECT_DIR$/src/sort-commits-sentistrength.py" />
+        <option value="$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable-new.txt" />
+        <option value="$PROJECT_DIR$/data/anotations.md" />
+        <option value="$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable.txt" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -114,6 +158,11 @@
             <path>
               <item name="analyzing-hadoop-feelings" type="b2602c69:ProjectViewProjectNode" />
               <item name="analyzing-hadoop-feelings" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="analyzing-hadoop-feelings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="analyzing-hadoop-feelings" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -147,7 +196,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.classify-manual">
+  <component name="RunManager" selected="Python.sort-commits-sentistrength">
     <configuration name="classify-manual" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,10 +273,10 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.classify-manual" />
-        <item index="1" class="java.lang.String" itemvalue="Python.virify-ss" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sort-commits-sentistrength" />
-        <item index="3" class="java.lang.String" itemvalue="Python.convert-in-sqlite" />
+        <item index="0" class="java.lang.String" itemvalue="Python.sort-commits-sentistrength" />
+        <item index="1" class="java.lang.String" itemvalue="Python.convert-in-sqlite" />
+        <item index="2" class="java.lang.String" itemvalue="Python.classify-manual" />
+        <item index="3" class="java.lang.String" itemvalue="Python.virify-ss" />
       </list>
     </recent_temporary>
   </component>
@@ -258,6 +307,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -266,8 +316,9 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23639192" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23639192" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2868526" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -278,7 +329,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -341,13 +391,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/raw-data/3_release_hadoop_classified_manual/pos/b0a4ae3f8b9a02683c5a63805fad7da3d40c6ee9.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/raw-data/3_release_hadoop_classified_manual/pos/ecf45fd810566c5561886e2a8bc1f1bf0fe878f5.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -419,13 +462,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/raw-data/3_release_hadoop_classified_manual/8ab9d9b4b326ee268bf60dae576cfbbf39e2018b.txt" />
-    <entry file="file://$PROJECT_DIR$/raw-data/observations.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/classify-manual.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -553,16 +589,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/anotations.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="283">
-            <caret line="25" column="181" lean-forward="false" selection-start-line="25" selection-start-column="181" selection-end-line="25" selection-end-column="181" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/raw-data/2_release_hadoop_ss0_out.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -606,25 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="277">
-            <caret line="31" column="76" lean-forward="false" selection-start-line="31" selection-start-column="76" selection-end-line="31" selection-end-column="76" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raw-data/3_release_hadoop_ss.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3549">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/from-sqlite-to-file-ss.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
@@ -632,22 +639,6 @@
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable-new.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="41" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2489" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="2489" column="0" lean-forward="true" selection-start-line="2489" selection-start-column="0" selection-end-line="2489" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -675,6 +666,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/verify-similarity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/anotations.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/observations.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="861" column="3" lean-forward="false" selection-start-line="861" selection-start-column="0" selection-end-line="861" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sentistrength_data/EmoticonLookupTable.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable-new.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="861" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2489" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw-data/3_release_hadoop_ss.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2322">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/3_release_analysis_ss_filter.sqlite">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -685,9 +735,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/convert-in-sqlite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-46">
-          <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="74" />
+        <state relative-caret-position="324">
+          <caret line="19" column="74" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="74" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="327">
+            <caret line="45" column="155" lean-forward="false" selection-start-line="45" selection-start-column="126" selection-end-line="45" selection-end-column="155" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -695,14 +756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/verify-similarity.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

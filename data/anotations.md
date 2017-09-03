@@ -1,7 +1,7 @@
 # Algumas anotações
 
 ## Adicionei para chegar nos meus resultados
-- Adicionei "fix" com peso +3 no dicionário do SentiStrenght
+- Adicionei "fix*" com peso +3 no dicionário do SentiStrenght
 
 ## Baixar release para análise:
 - `git clone -b <branch> --single-branch <remote_repo>`
