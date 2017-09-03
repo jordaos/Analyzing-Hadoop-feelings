@@ -59,9 +59,9 @@ X_train_tfidf = tfidf_transformer.fit_transform(X_train_counts)
 clf = MultinomialNB().fit(X_train_tfidf, model_train.target)
 
 # Dir of rating created
-dir_not_evaluate = '../raw-data/3_release_hadoop_classified_naive_bayes'
+dir_not_evaluate = '../raw-data/2_release_hadoop_classified_naive_bayes'
 # Dir of release unrated
-dir_evaluate = '../raw-data/3_release_hadoop'
+dir_evaluate = '../raw-data/2_release_hadoop'
 evaluate = []
 for f in listdir(dir_evaluate):
     if isfile(join(dir_evaluate, f)):
