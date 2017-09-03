@@ -25,5 +25,6 @@ for line in text:
     if not contains_in_neutral:
         new_emotion_list.write(line)
 
+
 old_emotion_list.close()
 new_emotion_list.close()

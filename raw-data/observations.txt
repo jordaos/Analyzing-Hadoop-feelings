@@ -42,3 +42,18 @@ Classifiquei como neutro
 ----
 Muito bem explicado, por isso foi para POSITIVO
     fc9de14372c19aad1c68d9ef4753139788c5adea
+
+# TERCEIRA RELEASE:
+----
+Considerado positivo
+    1cc6967c39abb0d8161891ae2a450183045f12af
+----
+muito positivo
+    f98de59ffddce9e2da5313602888d4907d5d8015
+----
+é negativo? por ser segunda tentativa
+    b38c3c0c0a44f2451d72832650245d5b653c1afc
+    Adding branch for 0.2 releases.  2nd attempt.
+----
+Nessa release, foram identificados muitos commits que eram da primeira release.
+Eles foram classificados da mesma forma.

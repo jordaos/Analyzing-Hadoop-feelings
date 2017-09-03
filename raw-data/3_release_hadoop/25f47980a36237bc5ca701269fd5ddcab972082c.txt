@@ -1,0 +1,3 @@
+Tagging 0.2.0.  Again.
+
+git-svn-id: https://svn.apache.org/repos/asf/lucene/hadoop/tags/release-0.2.0@400192 13f79535-47bb-0310-9956-ffa450edef68
