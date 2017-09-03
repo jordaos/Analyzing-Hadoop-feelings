@@ -3,15 +3,20 @@ import re
 import sys
 
 MODE = 'filter'
-if len(sys.argv) > 1:
+NUMBER_VERSION = 0
+if len(sys.argv) > 2:
     MODE = sys.argv[1]
+    NUMBER_VERSION = sys.argv[2]
+else:
+    print 'Give all 2 parameters'
+    sys.exit()
 
 if MODE not in ['filter', 'no-filter']:
     print 'Mode not found'
     sys.exit()
 
 # Change it!
-conn = sqlite3.connect('../raw-data/2_release_hadoop.sqlite')
+conn = sqlite3.connect('../raw-data/%d_release_hadoop.sqlite' % NUMBER_VERSION)
 cursor = conn.cursor()
 # lendo os dados
 cursor.execute("""
@@ -32,7 +37,7 @@ def remove_URLs_informations(sentence):
     return phrase
 
 # Change it!
-file_name = "2_release_hadoop_ss.txt"
+file_name = "%d_release_hadoop_ss.txt" % NUMBER_VERSION
 file = open("../raw-data/%s" % (file_name), "w")
 
 for linha in cursor.fetchall():
