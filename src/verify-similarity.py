@@ -29,6 +29,8 @@ def verify_is(log_file, dir, cat, dir2, link):
                 for categ in categories:
                     if (is_in(dir2, f, categ) == True):
                         texto += "- <a href=\"%s/%s/%s\">%s</a> deveria ser \"%s\", mas está em \"%s\" \n" % (link, categ, f, f, categ, cat)
+            else:
+                texto += "- <a href=\"%s/%s/%s\">%s</a> está certo (%s)\n" % (link, cat, f, f, cat)
     log_file.write(texto)
 
 

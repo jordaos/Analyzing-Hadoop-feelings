@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89c720ba-2929-438b-b2d1-51c1289a81e5" name="Default" comment="Classifying second release of Hadoop manually">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neg/0caa6bc1b1e29ffff451adb7735c1eb1851d6110.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neg/260d0f602a754471f20d4b302acf2ce0d21ec7f4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neg/27a97ef6d3181f3bb48683063d186ed978566a44.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neu/0c0d78d8c820161bdd138f0e7726aca0fc77f0a8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neu/3c4edc2643cfafd3d68e9687f3c7c761c3ab5fdc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neu/56cd3950f23431d3c1293460feafb524f10a02bd.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neu/719ea4d7d91d753b9f80d5943d1ea6cf4853c85e.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neu/8b48a08eeb9b0e3611065f85721613be1a469d6d.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neu/a18fc6b1ef959276e1dc387330a49dca45bd97c2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neu/b8a11ba2ec45bde538503fab9d010260f131ff1b.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neu/bbc74dd53ec3f2e7955669f373ad8414b01c32b5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_classified_ss/neu/fa1635cb55651386f72266a8494c4b1fb77803f3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/raw-data/3_release_hadoop_ss0_out_filter.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3_release_analysis_ss_filter.sqlite" afterPath="$PROJECT_DIR$/data/3_release_analysis_ss_filter.sqlite" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/anotations.md" afterPath="$PROJECT_DIR$/data/anotations.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable-new.txt" afterPath="$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable-new.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable.txt" afterPath="$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable.txt" />
-    </list>
+    <list default="true" id="89c720ba-2929-438b-b2d1-51c1289a81e5" name="Default" comment="Classifying second release of Hadoop manually" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,51 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="327">
-                <caret line="45" column="155" lean-forward="false" selection-start-line="45" selection-start-column="126" selection-end-line="45" selection-end-column="155" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sort-commits-sentistrength.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sort-commits-sentistrength.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="convert-in-sqlite.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/convert-in-sqlite.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="19" column="74" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3_release_analysis_ss_filter.sqlite" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/3_release_analysis_ss_filter.sqlite">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -121,6 +57,7 @@
         <option value="$PROJECT_DIR$/data/anotations.md" />
         <option value="$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable.txt" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/data/verify-ss-classification-3release.log.md" />
       </list>
     </option>
   </component>
@@ -154,16 +91,6 @@
             <path>
               <item name="analyzing-hadoop-feelings" type="b2602c69:ProjectViewProjectNode" />
               <item name="analyzing-hadoop-feelings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="analyzing-hadoop-feelings" type="b2602c69:ProjectViewProjectNode" />
-              <item name="analyzing-hadoop-feelings" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="analyzing-hadoop-feelings" type="b2602c69:ProjectViewProjectNode" />
-              <item name="analyzing-hadoop-feelings" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -307,7 +234,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1303" height="780" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -316,8 +242,8 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23639192" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2868526" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23639192" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2868526" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -391,13 +317,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/raw-data/3_release_hadoop_classified_manual/pos/ecf45fd810566c5561886e2a8bc1f1bf0fe878f5.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/raw-data/3_release_hadoop_classified_manual/neg/5c70b644c6789d8f8c9ad65a5cba4a40bce98fc7.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -757,6 +676,17 @@
         <state relative-caret-position="72">
           <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/verify-ss-classification-3release.log.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
