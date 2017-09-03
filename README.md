@@ -18,7 +18,7 @@ First you need to run `src/filter-wordlist.py` to filter software-specific words
 
 In order for SentiStrength to be able to parse messages, they must be in a single file, one on each line.
 We filter the messages to remove links and other unnecessary information in that context.
-To do this, run `src/from-sqlite-to-file-ss.py`
+To do this, run `src/from-sqlite-to-file-ss.py MODE`, and replace `MODE` for "filter"(default) or "no-filter" to filter or no the commit message.
 
 Now, download the SentiStrength Java tool at http://gateway.path.berkeley.edu:8080/artifactory/list/release-local/com/sentistrength/sentistrength/0.1/sentistrength-0.1.jar and move this to `data` directory.
 

@@ -1,5 +1,14 @@
 import sqlite3
 import re
+import sys
+
+MODE = 'filter'
+if len(sys.argv) > 1:
+    MODE = sys.argv[1]
+
+if MODE not in ['filter', 'no-filter']:
+    print 'Mode not found'
+    sys.exit()
 
 # Change it!
 conn = sqlite3.connect('../raw-data/2_release_hadoop.sqlite')
@@ -27,6 +36,9 @@ file_name = "2_release_hadoop_ss.txt"
 file = open("../raw-data/%s" % (file_name), "w")
 
 for linha in cursor.fetchall():
-    file.write(remove_URLs_informations(linha[2]) + '\n')
+    if MODE == 'filter':
+        file.write(remove_URLs_informations(linha[2]) + '\n')
+    elif MODE == 'no-filer':
+        file.write(linha[2] + '\n')
 file.close()
 conn.close()

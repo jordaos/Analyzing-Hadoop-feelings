@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89c720ba-2929-438b-b2d1-51c1289a81e5" name="Default" comment="Classifying second release of Hadoop manually">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/anotations.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/classify-manual.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/verify_classifyed.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable.txt" afterPath="$PROJECT_DIR$/data/sentistrength_data/EmotionLookupTable.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/raw-data/observations.txt" afterPath="$PROJECT_DIR$/raw-data/observations.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/classify-with-naive-bayes-and-nltk.py" afterPath="$PROJECT_DIR$/src/classify-with-naive-bayes-and-nltk.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/extract-commit-to-file.py" afterPath="$PROJECT_DIR$/src/extract-commit-to-file.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/filter-wordlist.py" afterPath="$PROJECT_DIR$/src/filter-wordlist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/from-sqlite-to-file-ss.py" afterPath="$PROJECT_DIR$/src/from-sqlite-to-file-ss.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +14,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="from-sqlite-to-file-ss.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/from-sqlite-to-file-ss.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="666">
+              <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,10 +59,8 @@
         <option value="$PROJECT_DIR$/data/verify-nb-classification-2release.log.md.md" />
         <option value="$PROJECT_DIR$/src/verify-similarity.py" />
         <option value="$PROJECT_DIR$/data/verify-nb-classification-2release.log.md" />
-        <option value="$PROJECT_DIR$/src/from-sqlite-to-file-ss.py" />
         <option value="$PROJECT_DIR$/src/convert-in-sqlite.py" />
         <option value="$PROJECT_DIR$/src/sort-commits-sentistrength.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/extract-commit-to-file.py" />
         <option value="$PROJECT_DIR$/src/verify_classifyed.py" />
@@ -66,6 +69,8 @@
         <option value="$PROJECT_DIR$/src/classify-with-naive-bayes-and-nltk.py" />
         <option value="$PROJECT_DIR$/src/filter-wordlist.py" />
         <option value="$PROJECT_DIR$/data/anotations.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/from-sqlite-to-file-ss.py" />
       </list>
     </option>
   </component>
@@ -99,17 +104,6 @@
             <path>
               <item name="analyzing-hadoop-feelings" type="b2602c69:ProjectViewProjectNode" />
               <item name="analyzing-hadoop-feelings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="analyzing-hadoop-feelings" type="b2602c69:ProjectViewProjectNode" />
-              <item name="analyzing-hadoop-feelings" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="analyzing-hadoop-feelings" type="b2602c69:ProjectViewProjectNode" />
-              <item name="analyzing-hadoop-feelings" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="sentistrength_data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="analyzing-hadoop-feelings" type="b2602c69:ProjectViewProjectNode" />
@@ -258,6 +252,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -266,7 +261,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23639192" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23639192" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2820717" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -312,17 +307,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/raw-data/3_release_hadoop_classified_manual/pos/0f31b06579458e048bf378e7347610a269753e75.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="47" lean-forward="true" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/raw-data/3_release_hadoop_classified_manual/pos/00cea5a675cb1c33b32f63d2b0d50df68da61c10.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -686,16 +676,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/from-sqlite-to-file-ss.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="29" column="39" lean-forward="false" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/anotations.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -704,6 +684,27 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="139">
+            <caret line="20" column="144" lean-forward="false" selection-start-line="20" selection-start-column="144" selection-end-line="20" selection-end-column="144" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/from-sqlite-to-file-ss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
