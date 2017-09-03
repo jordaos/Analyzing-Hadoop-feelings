@@ -2,18 +2,13 @@ import sqlite3
 import re
 import sys
 
-MODE = 'filter'
 NUMBER_VERSION = 0
-if len(sys.argv) > 2:
-    MODE = sys.argv[1]
-    NUMBER_VERSION = sys.argv[2]
+if len(sys.argv) > 1:
+    NUMBER_VERSION = int(sys.argv[1])
 else:
-    print 'Give all 2 parameters'
+    print 'Give parameter'
     sys.exit()
 
-if MODE not in ['filter', 'no-filter']:
-    print 'Mode not found'
-    sys.exit()
 
 # Change it!
 conn = sqlite3.connect('../raw-data/%d_release_hadoop.sqlite' % NUMBER_VERSION)
@@ -37,13 +32,10 @@ def remove_URLs_informations(sentence):
     return phrase
 
 # Change it!
-file_name = "%d_release_hadoop_ss.txt" % NUMBER_VERSION
+file_name = "%d_release_hadoop_ss.txt" % (NUMBER_VERSION)
 file = open("../raw-data/%s" % (file_name), "w")
 
 for linha in cursor.fetchall():
-    if MODE == 'filter':
-        file.write(remove_URLs_informations(linha[2]) + '\n')
-    elif MODE == 'no-filer':
-        file.write(linha[2] + '\n')
+    file.write(remove_URLs_informations(linha[2]) + '\n')
 file.close()
 conn.close()
