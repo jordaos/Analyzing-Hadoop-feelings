@@ -1,0 +1,4 @@
+27 god class
+0 long method
+5 feature envy
+6 type checking
